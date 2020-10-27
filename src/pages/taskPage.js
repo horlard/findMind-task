@@ -6,7 +6,7 @@ import Header from '../components/Header'
 import {appContext} from '../App';
 import NewList from '../components/newList';
 import CardList from '../components/cardList'
-import Detail from '../components/details'
+
 
 
 

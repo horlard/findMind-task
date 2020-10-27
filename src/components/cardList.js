@@ -194,7 +194,7 @@ class CardList extends React.Component {
     }
 
     render () {
-        const {addTask,taskValue,tasks}= this.state;
+        const {addTask,taskValue}= this.state;
         return (
             <appContext.Consumer>
                 {
